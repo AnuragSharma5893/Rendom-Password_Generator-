@@ -1,2 +1,3 @@
 # Rendom-Password_Generator-
-It is an mini-project that I made using HTML, CSS , JAVASCRIPT..
+It is an mini-project that I made using HTML, CSS , JAVASCRIPT...
+Here I used a random color styling using css (orange,yellow) you can use any other.
